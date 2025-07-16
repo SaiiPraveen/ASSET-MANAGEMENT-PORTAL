@@ -69,5 +69,5 @@ This Asset Management Portal will:
 
 ## 📬 Contact
 
-Developed with 💡 by **[Your Name]**
+Developed with 💡 by KATTA SAI PRAVEEN
 
